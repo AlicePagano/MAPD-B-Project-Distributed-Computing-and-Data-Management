@@ -8,9 +8,9 @@
 
 In this submission, there are two folders:
 
-* Data_Management: it contains the assignment on the part of Dr. Andreas Peters (3 exercises done in python).
-
 * Distributed_Computing: distributed analysis of Covid-19 papers using Dask.
+
+* Data_Management: assignment on redundancy, cryptography and cloud storage technology. 
 
 ### Distributed analysis of Covid-19 papers using Dask
 
@@ -22,4 +22,10 @@ In this work, we consider as dataset a sub-sample of 1000 items taken from the o
 * lastly, we the cosine similarity between each pair of papers, figuring out some couples of papers with the highest cosine similarity score.
 
 
-###
+### Redundancy, Cryptography and Cloud Storage Technology
+
+This assignment covers three topics:
+
+* redundancy;
+* cryptography;
+* cloud storage technology.
